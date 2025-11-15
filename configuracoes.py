@@ -1,0 +1,1 @@
+#esse arquivo é responsável por guardar todas as constantes do jogo, desde as posições das tabelas às variaveis de marcação de turnos do projeto 
